@@ -1,0 +1,18 @@
+*{
+    font-family: sans-serif;
+}
+
+.bueno{
+    background-color: red;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.siu{
+    background-color: green;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 12px;
+}
